@@ -63,5 +63,5 @@ Navegación, fragments, Google Maps, Material Design y UI avanzada.
 ---
 
 ## 📫 Contacto
-**Email:** *(añade el tuyo)*  
-**LinkedIn:** *(añade tu enlace)*  
+**Email:** *ikermartinezlago@gmail.com*  
+**LinkedIn:** *https://www.linkedin.com/in/iker-martinez-7b0737291/*  
