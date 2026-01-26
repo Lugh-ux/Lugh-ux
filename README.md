@@ -1,6 +1,6 @@
 # 👋 Hola, soy Iker (Lugh-ux)
 
-Soy un desarrollador orientado a crear productos reales y funcionales. Me apasiona construir desde cero: apps móviles con Android + Google Maps, servidores C# multicliente, juegos completos en WinForms y sistemas que conectan personas en el mundo real.  
+Soy un desarrollador orientado a crear productos reales y funcionales. 
 Actualmente estoy desarrollando **Bubble**, una red social basada en proximidad.
 
 ---
@@ -23,7 +23,7 @@ Actualmente estoy desarrollando **Bubble**, una red social basada en proximidad.
 
 ---
 
-## 🛠️ Proyectos destacados
+## 🛠️ Proyectos en proceso
 
 ### 🔵 Bubble
 Red social basada en proximidad.  
@@ -31,12 +31,6 @@ Android + Google Maps + backend propio.
 
 ### 💬 Servidor de chat multicliente en C#
 Servidor robusto con sockets, hilos, gestión de clientes y broadcast.
-
-### 🎮 Hangman en WinForms
-Juego completo con lógica, UI personalizada, eventos y mejoras iterativas.
-
-### 🗺️ App Android con navegación moderna
-Navegación, fragments, Google Maps, Material Design y UI avanzada.
 
 ---
 
@@ -55,9 +49,7 @@ Navegación, fragments, Google Maps, Material Design y UI avanzada.
 
 ## 🧭 Roadmap 2026
 - Lanzar el MVP de Bubble  
-- Publicar 3 proyectos completos  
-- Mejorar arquitectura del servidor C#  
-- Profundizar en Compose + animaciones  
+- Publicar 3 proyectos completos   
 - Crear un portfolio web
 
 ---
