@@ -29,15 +29,10 @@ Actualmente estoy desarrollando **Bubble**, una red social basada en proximidad.
 Red social basada en proximidad.  
 Android + Google Maps + backend propio.
 
-### 💬 Servidor de chat multicliente en C#
-Servidor robusto con sockets, hilos, gestión de clientes y broadcast.
-
 ---
 
 ## 📚 Estoy aprendiendo
 - Arquitectura MVVM en Android  
-- Jetpack Compose  
-- Patrones de concurrencia y optimización de servidores  
 - Animaciones y UI moderna
 
 ---
